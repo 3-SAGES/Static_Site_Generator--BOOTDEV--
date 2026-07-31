@@ -1,0 +1,1 @@
+python3 -m src.main "/Static_Site_Generator--BOOTDEV--/"
